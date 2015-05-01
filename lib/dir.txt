@@ -1,0 +1,6 @@
+p[1] is z axis
+up z=-50
+down z=-70
+p[0] is x axis
+left -49
+right -37
